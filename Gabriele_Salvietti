@@ -1,0 +1,5 @@
+public class Gabriele_Salvietti{
+	public static void main(String[] args){
+		System.out.println("Hello 5 AIA");
+	}
+}
