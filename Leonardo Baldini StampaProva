@@ -1,5 +1,0 @@
-public class Baldini{
-	public static void main(String[] args){
-		System.out.println("prova");
-	}
-}

@@ -1,5 +1,0 @@
-public class Leonardo_Fattorini{
-	public static void main(String[] args){
-		System.out.println("Hello!");
-	}
-}
